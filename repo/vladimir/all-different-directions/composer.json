@@ -1,0 +1,12 @@
+{
+    "name": "vladimir/all-different-directions",
+    "description": "All different directions",
+    "license": "GNU",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Vladimir\\AllDifferentDirections\\": "src/"
+        }
+    },
+    "version": "1.0.1"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "vladimir/all-different-directions-project",
+    "description": "All different directions project",
+    "type": "project",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Vladimir Ivanov",
+            "email": "vladimir@ivanov.click"
+        }
+    ],
+    "minimum-stability": "stable",
+    "repositories": [
+        {
+            "type": "path",
+            "url": "./repo/vladimir/all-different-directions",
+            "options": {
+                "symlink": true
+            }
+        }
+    ],
+    "require": {
+        "vladimir/all-different-directions": "^1.0"
+    }
+}

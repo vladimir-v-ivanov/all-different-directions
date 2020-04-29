@@ -1,0 +1,41 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "b573f40b5164f960255f8ddc99fff53b",
+    "packages": [
+        {
+            "name": "vladimir/all-different-directions",
+            "version": "1.0.1",
+            "dist": {
+                "type": "path",
+                "url": "./repo/vladimir/all-different-directions",
+                "reference": "4b948d6985a8e21e9b6f45e103005ff06bec6c22",
+                "shasum": null
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Vladimir\\AllDifferentDirections\\": "src/"
+                }
+            },
+            "license": [
+                "GNU"
+            ],
+            "description": "All different directions",
+            "transport-options": {
+                "symlink": true
+            }
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
